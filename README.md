@@ -305,10 +305,9 @@ POST https://<your-vercel-backend-url>/send-email
 
 ## 📞 **Contact**
 - 📧 Email: aryankushwahalifenote@gmail.com  
-- 🔥 GitHub: [Your GitHub Profile](https://github.com/aryan7122)  
+- 🔥 GitHub: [GitHub Profile](https://github.com/aryan7122)  
 ```
 
 ---
 
-✅ **Yeh complete README.md hai jo saari instructions, React frontend, Nodemailer backend, aur deployment guide ke saath hai!** 🚀🔥  
-Isko **GitHub par upload** karke share karo! 🎉😎
+
