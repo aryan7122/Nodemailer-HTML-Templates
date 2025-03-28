@@ -305,7 +305,7 @@ POST https://<your-vercel-backend-url>/send-email
 
 ## 📞 **Contact**
 - 📧 Email: aryankushwahalifenote@gmail.com  
-- 🔥 GitHub: [Your GitHub Profile](https://github.com/your-profile)  
+- 🔥 GitHub: [Your GitHub Profile](https://github.com/aryan7122)  
 ```
 
 ---
