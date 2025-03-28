@@ -1,14 +1,3 @@
-✅ Bhai, ab main aapko **Nodemailer HTML Templates API** ka use karke **React + Node.js project** ka complete setup, example aur styling ke saath dunga. 🎯  
-Isme **SCSS styling**, **API integration**, aur saari instructions **README.md file** me hongi taaki aap **easily copy-paste** karke use kar sakein. 🔥🚀  
-
----
-
-### ✅ **Final Output Flow**
-1. **React frontend:** Form me email address, subject, aur template select karoge.  
-2. **Node.js backend:** Nodemailer se email bhejega, HTML template use karke.  
-3. **Deployment:** Vercel par deploy karne ka tarika bhi dunga.  
-
----
 
 ## 🔥 **React + Nodemailer Template Project**
 
